@@ -111,7 +111,7 @@ Sample Doctor:
   "name": "Dr. Sarah Wilson",
   "email": "sarah.wilson@medcenter.com",
   "phone": "+1555789012",
-  "specialization": "PEDIATRICS",
+  "speciality": "PEDIATRICS",
   "license_number": "MD98765",
   "years_of_experience": 12,
   "consultation_fee": "120.00"
